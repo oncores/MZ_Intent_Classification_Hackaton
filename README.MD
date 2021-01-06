@@ -44,6 +44,7 @@ attrdict
 
 -Citation
 
+```
 @misc{park2020koelectra,
   author = {Park, Jangwon},
   title = {KoELECTRA: Pretrained ELECTRA Model for Korean},
@@ -51,3 +52,5 @@ attrdict
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/monologg/KoELECTRA}}
+}
+```
