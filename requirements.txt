@@ -1,0 +1,7 @@
+transformers==3.3.1
+keras==2.4.3
+torch==1.6.0
+seqeval
+fastprogress
+attrdict
+pandas
