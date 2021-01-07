@@ -20,15 +20,16 @@ python prediction.py --input_text=test.txt --output_text=result.txt
 
 ## Model
 - KoElctra 분류모델 3가지
-> 1.1 intent_second level classification
+1. intent_second level classification
 
-> 1.2 intent_third level classification
+2. intent_third level classification
 
-> 1.3 intent classification
+3. intent classification
 
 
 - MLP classifier
-> 2.1 intent classification (./input/all_labels.csv)
+
+1. intent classification (./input/all_labels.csv)
 
 - Result
 대회 비공개용 test 데이터셋
