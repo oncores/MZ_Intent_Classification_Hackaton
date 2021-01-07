@@ -12,7 +12,7 @@ AI장치용 STT를 위한 의도 분류/음성인식 오류에 강인한 AI차�
 python prediction.py --input_text=test.txt --output_text=result.txt
 ```
 
-## directory
+## test input file
 테스트 입력 파일 : input/test.txt
 
 테스트 출력 파일 : output/result.txt
@@ -27,11 +27,13 @@ python prediction.py --input_text=test.txt --output_text=result.txt
 3. intent classification
 
 
+
 - MLP classifier
 
-1. intent classification (./input/all_labels.csv)
+1. intent classification
 
-- Result
+
+# Result
 대회 비공개용 test 데이터셋
 
 | **MZ-ALBERT(Baseline)** | **KoELCTRA Hierarchical Intent Classifier** |
