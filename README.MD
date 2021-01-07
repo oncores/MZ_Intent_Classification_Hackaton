@@ -12,7 +12,7 @@ AI장치용 STT를 위한 의도 분류/음성인식 오류에 강인한 AI차�
 python prediction.py --input_text=test.txt --output_text=result.txt
 ```
 
-## test input file
+## Directory
 테스트 입력 파일 : input/test.txt
 
 테스트 출력 파일 : output/result.txt
@@ -34,7 +34,7 @@ python prediction.py --input_text=test.txt --output_text=result.txt
 
 
 # Result
-대회 비공개용 test 데이터셋
+대회 비공개용 test 데이터셋 기준 정확도
 
 | **MZ-ALBERT(Baseline)** | **KoELCTRA Hierarchical Intent Classifier** |
 | :------------:       | :-----------:                            |
