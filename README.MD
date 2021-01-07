@@ -8,8 +8,11 @@ AI장치용 STT를 위한 의도 분류/음성인식 오류에 강인한 AI차�
 - 주최/주관 : 한국정보화진흥원/미디어젠
 
 ## run
-- prediction.py
-- python prediction.py --input_text=test.txt --output_text=result.txt
+'''bash
+prediction.py
+
+python prediction.py --input_text=test.txt --output_text=result.txt
+'''
 
 ## directory
 테스트 입력 파일 : input/test.txt
